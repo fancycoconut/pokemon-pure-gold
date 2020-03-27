@@ -7,3 +7,8 @@ Most of the work done on this was lost when my hard drive crash. This is one of 
 - Upgraded existing graphics and tilesets based on Fire Red & Leaf Green
 - Ported some maps over from Pokemon Gold
 - Inserted some tunes from Pokemon Gold
+
+# Getting Started
+- Download the Pokemon Ruby (U) ROM
+- Download an patching program e.g. Lips
+- Apply the IPS patch against your ROM
