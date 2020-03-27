@@ -1,0 +1,15 @@
+My Hack - GSC Music
+
+025 = Phone Call(Emerald)
+15F = Route 38
+164 = Pokemon Centre
+1A4 = Show me around
+1A5 = Red Hair Guy's Theme
+19F = Prof. Oak
+165 = Saffron City
+195 = New Bark Town
+16A = Ecruteak City
+16B = Cherrygrove City
+1D3 = Team Rocket
+1B1 = Violet City
+176 = Route 30/Intro

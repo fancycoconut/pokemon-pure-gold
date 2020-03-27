@@ -1,0 +1,16 @@
+How to enable special stuff?
+============================
+
+National Dex
+================
+#org 0x800000
+writebytetooffset 0x2 0x2026B00
+writebytetooffset 0x3 0x2026B01
+writebytetooffset 0xDA 0x2024EBE
+writebytetooffset 0x67 0x2026A5A
+release
+end
+
+#binary 11 02 00 6B 02 02 11 03 01 6B 02 02 11 DA BE 4E 02 02 11 67 5A 6A 02 02
+
+*use #binary as writebytetooffset has an error

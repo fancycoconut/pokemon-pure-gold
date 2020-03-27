@@ -1,0 +1,56 @@
+Pokemon Gold Version Remake
+=================================================================================================
+Goldv1 - Changed Palletes and animations
+Goldv1.2 - changing major tileset.(water animation done)
+Goldv1.3 - Changing major indoor tileset
+Goldv1.4 - Changing tiles.
+Goldv1.5 - Started Hacking.
+Goldv1.6 - Added WorldMap
+Goldv1.7 - Adding New Tiles, Added Starter Script.
+Goldv1.8 - Mapping a few routes.
+Goldv1.9 - Finshed route 46
+Goldv2   - Added new Overworlds
+Goldv2.1 - Added Pokemon Centre tiles
+Goldv2.2 - Added Savings script.
+Goldv2.3 - Song Editing.(Level Bug-Fixed)
+Goldv2.4 - Added National Dex, added some trainer Pics
+Goldv2.5 - Added the RedHair Battle script.
+Goldv2.6 - Added Headbutt script at tile data 8E(Offset of Headbutt = 802AAC
+Goldv2.7 - Finished elm's script - done and inserted
+Goldv2.8 - Inputed Major Tileset- Editing can be done easily now.
+Goldv2.9 - Inserted Violet City Tileset, after fixing tiles mapping will begin
+Goldv3.0 - Added tin tower tileset
+Goldv3.1 - 2 indoors tileset now enlarged.
+Goldv3.3 - Added new Textbox.
+Goldv3.4 - ReEdited palettes and tiles - a bit
+Goldv3.5 - Fixing stuff
+Goldv3.6 - Added Emerald Match call sound...
+Goldv3.7 - Music Hacking - Added Violet City
+Goldv3.8 - Music Hacking - Added Route 29 & Cherrygrove City
+Goldv3.9 - Music Hacking - Added Elm's Lab & Red Hair Guy theme.
+Goldv4   - Mapped Route 32
+Goldv4.1 - Edited tiles
+Goldv4.2 - Added a Large Tileset under Earl's Academy with Azalea Gym's tiles
+Goldv4.3 - Started with Violet City's events
+Goldv4.4 - Edited Door Animations, finished 5 doors. + TV Animations
+Goldv4.5 - Back To Storyline hacking.
+Goldv4.6 - Upgrading HP Box to Fire Red styled.
+Goldv4.7 - Back To Storyline hacking. Violet Houses completed. Violet City Events completed.
+Goldv4.8 - Completing Route 32
+Goldv4.9 - Inserted New World Map
+Goldv5.0 - Edited Pokemon Locations
+Goldv5.1 - Inserted GSCIntro/Route 30 over Route 4/Intro theme.
+Goldv5.2 - Inserting Overworlds, and Completing Route 32.
+Goldv5.3 - Completing Route 32
+Goldv5.4 - Repointed Maps again, Bank 0 = 25 extra maps, Bank 1 = 12 maps.
+Goldv5.5 - Edited Pokemon Center Text and resuming with the storyline.
+Goldv5.6 - Finished Dark Cave Tileset and Dark Cave
+Goldv5.7 - Inserted Ruins of Alph tileset and resized block amount.
+Goldv5.8 - Fixed Player's Door Animation. Added Lv2 for R32's PokeCenter. Mapped Route 33
+Goldv5.9 - Mapped Azalea Town.
+Goldv6.0 - Added Union Cave tileset.
+Goldv6.1 - Edited the blocks, mapped 1 of Union Cave. Edited WorldMap Data. Edited a Dorr Animation. Mapped Union Cave.
+Goldv6.2 - Inserted CheckTime ASM Routine at 0x808428, edited default Textbox frame to FR style.
+Goldv6.3 - Finished Inserting all berry trees till Route 33, Fixed the remove item in Elm's script{wrong item specified}, Changed the Hero sprite to Shiny Gold's, Changed the Grass Battle Tileset and Tilemap
+Goldv6.4 - Did 2 trainers in Union Cave on Thur, 09/04/09.
+Goldv6.5 - Changed the Cave Battle Tileset and Tilemap.
